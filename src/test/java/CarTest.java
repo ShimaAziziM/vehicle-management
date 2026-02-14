@@ -15,15 +15,6 @@ public class CarTest {
         Assertions.assertFalse(harekat);
 
 
-//        Car car = new Car();
-//        car.mashinRoshan();
-//        car.darMashinBasteh();
-//        car.harekat();
-//        System.out.println("----------------------------------");
-//        Car model_1 = new Car("pride");
-//        model_1.darMashinBaz();
-//        model_1.mashinKhamosh();
-//        model_1.harekat();
 
     }
 
